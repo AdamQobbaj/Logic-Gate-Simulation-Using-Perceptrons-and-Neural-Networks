@@ -41,7 +41,7 @@ This project is a JavaFX-based educational tool that simulates how perceptrons a
 
 ## 📸 Screenshots
 
-> *(Add screenshots here of the JavaFX UI and Swing plot window, if available)*
+![image](https://github.com/user-attachments/assets/f823e05b-cb6f-4b1f-a426-2c2ceece7be3)
 
 ---
 
